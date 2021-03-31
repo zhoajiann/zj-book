@@ -1,0 +1,23 @@
+{
+  "name": "zj-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoajiann/zj-book.git"
+  },
+  "keywords": [],
+  "author": "zhaojian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhoajiann/zj-book/issues"
+  },
+  "homepage": "https://github.com/zhoajiann/zj-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
